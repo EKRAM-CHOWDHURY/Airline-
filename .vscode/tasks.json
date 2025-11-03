@@ -13,7 +13,7 @@
       "command": "g++",
       "args": [
         "-g",
-        "-std=c++17",          // <-- add this line
+        "-std=c++17",          
         "src/main.cpp",
         "-o",
         "build/airline.exe"
