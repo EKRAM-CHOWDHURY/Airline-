@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "windows-gcc-x64",
-      "compilerPath": "C:\\MinGW\\bin\\g++.exe",     // or C:/msys64/ucrt64/bin/g++.exe
+      "compilerPath": "C:\\MinGW\\bin\\g++.exe",     
       "intelliSenseMode": "windows-gcc-x64",
       "cppStandard": "c++17",
       "cStandard": "c17",
