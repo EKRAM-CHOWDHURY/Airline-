@@ -12,7 +12,7 @@ It allows users to **book, cancel, and view flights** interactively from a termi
 >Simple and fast text-based user interface  
 
 
-## ⚙️ Build & Run
+##  Build & Run
 
 ### 🪟 On Windows
 ```bash
@@ -24,3 +24,4 @@ Future Ideas
 >Add color to the terminal UI
 >Add admin/user login
 >Show flight details in a table format
+
